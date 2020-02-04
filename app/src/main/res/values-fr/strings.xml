@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appreciation">Appreciation</string>
+    <string name="calculate_BMI">Calculer l\'IMC</string>
+    <string name="centimeter">Centimètre</string>
+    <string name="click_on_the_button_calculate_BMI_to_obtain_result">Cliquer sur le bouton « Calculer l\'IMC » pour obtenir un résultat.</string>
+    <string name="determine_your_height">Determinez votre taille :</string>
+    <string name="determine_your_weight">Determinez votre poids :</string>
+    <string name="famine">Famine</string>
+    <string name="height">Taille :</string>
+    <string name="height_must_be_positive">La taille doit être positive</string>
+    <string name="meter">Mètre</string>
+    <string name="moderate_obesity">Obésité modérée</string>
+    <string name="morbid_obesity">Obésité morbide ou massive</string>
+    <string name="normal_corpulence">Corpulence normale</string>
+    <string name="overweight">Surpoids</string>
+    <string name="reset">Reset</string>
+    <string name="result">Résultat :</string>
+    <string name="severe_obesity">Obésité sévère</string>
+    <string name="thinness">Maigreur</string>
+    <string name="weight">Poids :</string>
+    <string name="weight_must_be_positive">Le poids doit être positif</string>
+    <string name="you_must_click_on_the_button_calculate_BMI_to_obtain_result">"Vous devez cliquer sur le bouton \"Calculer l'IMC\" pour obtenir un résultat. "</string>
+    <string name="your_BMI_is">"Votre IMC est "</string>
+</resources>
